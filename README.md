@@ -1,5 +1,5 @@
 # PC-Performance-Stats-with-RUST
-
+![Rust](https://img.shields.io/badge/Rust-1.70+-blue.svg)
 ## Technology Stack Used in This Project
 ### 1. Programming Language:
 Rust – Primary implementation language (2018 or 2021 edition).
